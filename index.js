@@ -1,5 +1,7 @@
 // Code your solution in this file!
+
 // companyName
+// let companyName = 'Scuber';
 const companyName = 'Scuber';
 
 // mostProfitableNeighborhood
